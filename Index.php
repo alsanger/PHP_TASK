@@ -69,6 +69,7 @@ if (isset($_POST["send"]) && isset($_POST["message"]) && isset($_POST["name"]))
 <form method="post">
     <p>
         <label>Name</label>
+        <label>Name111</label>
         <input type="text" name="name" placeholder="Name"/>
         <label>Password</label>
         <input type="password" name="password" placeholder="Password"/>
